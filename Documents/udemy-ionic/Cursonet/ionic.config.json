@@ -1,0 +1,7 @@
+{
+  "name": "Cursonet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
